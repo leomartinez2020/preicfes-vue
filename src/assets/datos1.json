@@ -1,0 +1,64 @@
+{
+  "quiz": {
+    "titulo": "Quiz 1",
+    "secciones": [
+      {
+        "tipo": "tipouno",
+        "titulo": "",
+        "texto": "RESPONDA LAS PREGUNTAS 1 A 5 DE ACUERDO CON EL EJEMPLO",
+        "descripcion": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la derecha (A - G) concuerda con cada descripción? La opción H se usa para el ejemplo. Sobran dos palabras más. En las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas",
+        "tema": "Household objects",
+        "ejemplo": {
+          "pregunta": "You can sweep the floor with this object"
+        },
+        "preguntas": [
+          {
+            "pk": 1,
+            "texto": "Here you can wash the dishes",
+            "palabra": "sink",
+            "letra": "C",
+            "correct": false
+          },
+          {
+            "pk": 2,
+            "texto": "Here you can cook",
+            "palabra": "stove",
+            "letra": "A",
+            "correct": false
+          },
+          {
+            "pk": 3,
+            "texto": "You can light the stove with this",
+            "palabra": "match",
+            "letra": "E",
+            "correct": false
+          },
+          {
+            "pk": 4,
+            "texto": "You keep the food cold here",
+            "palabra": "fridge",
+            "letra": "B",
+            "correct": false
+          },
+          {
+            "pk": 5,
+            "texto": "With this device you can prepare milkshakes",
+            "palabra": "blender",
+            "letra": "F",
+            "correct": false
+          }
+        ],
+        "palabras": {
+          "A": "stove",
+          "B": "fridge",
+          "C": "sink",
+          "D": "toaster",
+          "E": "match",
+          "F": "blender",
+          "G": "bucket",
+          "H": "broom"
+        }
+      }
+    ]
+  }
+}
