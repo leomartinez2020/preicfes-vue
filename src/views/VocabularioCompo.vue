@@ -2,7 +2,7 @@
 import CuadroOpciones from '@/components/CuadroOpciones.vue'
 import CuadroRespuestas from '@/components/CuadroRespuestas.vue'
 
-import datos from '../assets/datos1.json'
+import datos from '@/assets/datos1.json'
 
 export default {
   components: {
@@ -14,8 +14,16 @@ export default {
       was_submitted: false,
       correctResponses: 0,
       responses: {},
-      quiz: datos.quizzes[0],
+      quizzes: datos.quizzes,
     }
+  },
+  computed: {
+    quizId() {
+      return parseInt(this.$route.params.id)
+    },
+    quiz() {
+      return this.quizzes.filter(dato => dato.id === this.quizId)[0]
+    },
   },
   methods: {
     handleSelected(arg1, arg2) {
@@ -51,7 +59,7 @@ export default {
     <div v-if="quiz.descripcion">{{ quiz.descripcion }}</div>
     <p class="font-bold text-2xl text-yellow-700 text-center">{{ quiz.tema }}</p>
     <p><span class="px-2 bg-blue-300 font-bold text-yellow-700 rounded-md">Ejemplo</span></p>
-    <p><span class="font-bold">0.</span> {{ quiz.ejemplo.pregunta }}</p>
+    <p><span class="font-bold">0.</span> {{ quiz.ejempregunta }}</p>
     <!-- Cuadro de opciones para el ejemplo -->
     <CuadroOpciones />
     <section class="my-10 grid grid-cols-2 md:grid-cols-3 gap-4">

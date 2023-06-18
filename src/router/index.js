@@ -5,7 +5,8 @@ import VocabularioCompo from '@/views/VocabularioCompo.vue'
 
 const routes = [
     { path: '/', name: 'Home', component: Home },
-    { path: '/quiz1', name: 'quiz1', component: VocabularioCompo },
+    // { path: '/quiz1', name: 'quiz1', component: VocabularioCompo },
+    { path: '/quiz/:id', component: ()=>import('@/views/VocabularioCompo.vue') },
 ]
 
 const router = createRouter({

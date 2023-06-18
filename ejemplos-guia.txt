@@ -1,0 +1,12 @@
+01)id
+02)titulo
+03)tema
+04)ejempregunta
+05)respejem
+06)palabraextra
+07)palabraextra
+08)definicion1,palabra1
+09)definicion2,palabra2
+10)definicion3,palabra3
+11)definicion4,palabra4
+12)definicion5,palabra5

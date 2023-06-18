@@ -1,0 +1,12 @@
+01)5
+02)Quiz 5
+03)Classroom objects
+04)Object where students put books and pencils
+05)backpack
+06)whiteboard
+07)book
+--)An electronic device to make math operations,calculator
+--)A substance used to stick things together,glue
+--)A metalic tool used to cut paper,scissors
+--)A container to throw away garbage,paper bin
+--)An object used to measure distances,ruler
