@@ -2,7 +2,8 @@
 import CuadroOpciones from '@/components/CuadroOpciones.vue'
 import CuadroRespuestas from '@/components/CuadroRespuestas.vue'
 
-import datos from '@/assets/datos1.json'
+// import datos from '@/assets/datos1.json'
+import datos from '@/assets/datostest.json'
 
 export default {
   components: {
@@ -74,7 +75,7 @@ export default {
               <span v-else-if="was_submitted && !pregunta['correct']">&#10060;</span>
               <span v-else></span>
             </p>
-            <CuadroRespuestas :class="[was_submitted ? pregunta['correct'] ? 'submitted-correct' : 'submitted-wrong' : '']" :pk="pregunta.pk" @selectedLetter="handleSelected"/>
+            <CuadroRespuestas :class="[was_submitted ? pregunta['correct'] ? 'submitted-correct' : 'submitted-wrong' : '']" :pk="pregunta.pk" :was_submitted="was_submitted" @selectedLetter="handleSelected"/>
           </div>
           <!-- Fin cuadro de opciones -->
       </div>
@@ -92,7 +93,8 @@ export default {
 
     <!-- Botón enviar -->
     <div class="text-center my-6">
-     <button @click="procesar" class="cursor-pointer mt-4 text-white bg-slate-600 hover:bg-slate-800 text-lg font-medium rounded-lg px-5 focus:ring-4 focus:ring-blue-300 px-4">Evaluar</button>
+     <button v-if="!was_submitted" @click="procesar" class="cursor-pointer mt-4 text-white bg-blue-300 hover:bg-slate-800 text-lg font-medium rounded-lg px-5 focus:ring-4 focus:ring-blue-300 px-4">Evaluar</button>
+     <button v-else disabled class="mt-4 text-gray-500 bg-slate-300 text-lg font-medium rounded-lg px-5 px-4">Evaluar</button>
     </div>
   </form>
 </div>

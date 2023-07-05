@@ -1,0 +1,31 @@
+{
+  "quizzes": [
+    {
+      "tipo": "tipolectura",
+      "titulo": "RESPONDA LAS PREGUNTAS 9 A 14 DE ACUERDO CON EL SIGUIENTE TEXTO",
+      "texto": "",
+      "descripcion": "Lea el texto y seleccione la palabra correcta para cada espacio.",
+      "lectura": "",
+      "preguntas": [
+         {
+           "pk": 1,
+           "texto": "",
+           "opciones": [
+              "The Philippines",
+              "Mexico",
+              "Venezuela"
+           ]
+         },
+         {
+           "pk": 2,
+           "texto": "",
+           "opciones": [
+              "has tomato",
+              "is cheap",
+              "is complicated"
+           ]
+         }
+       ]
+    }
+  ]
+}

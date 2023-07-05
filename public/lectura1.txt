@@ -1,0 +1,15 @@
+<h2 class="text-2xl font-bold text-yellow-700">The World's Favorite Food</h2>
+<p>According to information collected in 17 countries, pasta is what people like to eat most. Not only
+is pasta the number one food in its home country, Italy, but it is also enjoyed in distant places
+like the Philippines, Mexico and South Africa. Italy is the biggest pasta-eating community of the
+world. Italy is followed by Venezuela, then Tunisia.</p>
+<p>Pasta has become popular because it is a low-cost meal and it is not difficult to prepare. Just
+cook spaghetti or other forms of pasta with tomato to go with it and you’re finished. It tastes
+delicious and fills your stomach. It also produces energy, which is why athletes eat pasta.</p>
+<p>Before it became popular in Italy during the 19th century, earlier civilizations ate some forms of
+pasta. People say that by the 13th century Marco Polo brought pasta to Italy from China, but this
+is not true. Arabs brought a noodle-like pasta to Sicily, an island in Italy, in the 8th century.</p>
+<p>When many Italians immigrated to America in the 20th century, they took their eating habits
+with them, so pasta and pizza became popular. Although many people think of spaghetti as the
+most popular form of pasta, there are over 600 types and they are cooked in different ways.
+Pasta has simple ingredients, so it can be kept longer.</p>

@@ -1,0 +1,588 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "slug": "quiz/1",
+      "titulo": "Quiz 1",
+      "tipo": "tipouno",
+      "texto": "RESPONDA LAS PREGUNTAS 1 A 5 DE ACUERDO CON EL EJEMPLO",
+      "descripcion": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la derecha (A - G) concuerda con cada descripción? La opción H se usa para el ejemplo. Sobran dos palabras más. En las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas",
+      "tema": "Household objects",
+      "ejempregunta": "You can sweep the floor with this object",
+      "preguntas": [
+        {
+          "pk": 1,
+          "texto": "Here you can wash the dishes",
+          "palabra": "sink",
+          "letra": "C",
+          "correct": false
+        },
+        {
+          "pk": 2,
+          "texto": "Here you can cook",
+          "palabra": "stove",
+          "letra": "A",
+          "correct": false
+        },
+        {
+          "pk": 3,
+          "texto": "You can light the stove with this",
+          "palabra": "match",
+          "letra": "E",
+          "correct": false
+        },
+        {
+          "pk": 4,
+          "texto": "You keep the food cold here",
+          "palabra": "fridge",
+          "letra": "B",
+          "correct": false
+        },
+        {
+          "pk": 5,
+          "texto": "With this device you can prepare milkshakes",
+          "palabra": "blender",
+          "letra": "F",
+          "correct": false
+        }
+      ],
+      "palabras": {
+        "A": "stove",
+        "B": "fridge",
+        "C": "sink",
+        "D": "toaster",
+        "E": "match",
+        "F": "blender",
+        "G": "bucket",
+        "H": "broom"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "quiz/2",
+      "titulo": "Quiz 2",
+      "tipo": "tipouno",
+      "texto": "RESPONDA LAS PREGUNTAS 1 A 5 DE ACUERDO CON EL EJEMPLO",
+      "descripcion": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la derecha (A - G) concuerda con cada descripción? La opción H se usa para el ejemplo. Sobran dos palabras más. En las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas",
+      "tema": "Animals",
+      "ejempregunta": "This animal lives in the trees in the jungle",
+      "preguntas": [
+        {
+          "pk": 1,
+          "texto": "This animal lives near the north pole",
+          "palabra": "polar bear",
+          "letra": "F",
+          "correct": false
+        },
+        {
+          "pk": 2,
+          "texto": "This animal makes honey",
+          "palabra": "bee",
+          "letra": "C",
+          "correct": false
+        },
+        {
+          "pk": 3,
+          "texto": "This animal is a reptile",
+          "palabra": "crocodile",
+          "letra": "D",
+          "correct": false
+        },
+        {
+          "pk": 4,
+          "texto": "This animal is big and lives in the ocean",
+          "palabra": "whale",
+          "letra": "E",
+          "correct": false
+        },
+        {
+          "pk": 5,
+          "texto": "This animal is a small insect",
+          "palabra": "T. Rex",
+          "letra": "A",
+          "correct": false
+        }
+      ],
+      "palabras": {
+        "A": "ant",
+        "B": "parrot",
+        "C": "bee",
+        "D": "crocodile",
+        "E": "whale",
+        "F": "polar bear",
+        "G": "shrimp",
+        "H": "monkey"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "quiz/3",
+      "titulo": "Quiz 3",
+      "tipo": "tipouno",
+      "texto": "RESPONDA LAS PREGUNTAS 1 A 5 DE ACUERDO CON EL EJEMPLO",
+      "descripcion": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la derecha (A - G) concuerda con cada descripción? La opción H se usa para el ejemplo. Sobran dos palabras más. En las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas",
+      "tema": "Food",
+      "ejempregunta": "This food is cold and sweet",
+      "preguntas": [
+        {
+          "texto": "This food is made from milk",
+          "palabra": "cheese",
+          "letra": "A",
+          "correct": false,
+          "pk": 1
+        },
+        {
+          "texto": "This food is made from flour",
+          "palabra": "bread",
+          "letra": "C",
+          "correct": false,
+          "pk": 2
+        },
+        {
+          "texto": "With this you can make a hot dog",
+          "palabra": "sausage",
+          "letra": "G",
+          "correct": false,
+          "pk": 3
+        },
+        {
+          "texto": "This fruit is a bit sour",
+          "palabra": "lemon",
+          "letra": "D",
+          "correct": false,
+          "pk": 4
+        },
+        {
+          "texto": "This food is from the ocean",
+          "palabra": "seafood",
+          "letra": "F",
+          "correct": false,
+          "pk": 5
+        }
+      ],
+      "palabras": {
+        "A": "cheese",
+        "B": "strawberry",
+        "C": "bread",
+        "D": "lemon",
+        "E": "banana",
+        "F": "seafood",
+        "G": "sausage",
+        "H": "ice cream"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "quiz/4",
+      "titulo": "Quiz 4",
+      "tipo": "tipouno",
+      "texto": "RESPONDA LAS PREGUNTAS 1 A 5 DE ACUERDO CON EL EJEMPLO",
+      "descripcion": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la derecha (A - G) concuerda con cada descripción? La opción H se usa para el ejemplo. Sobran dos palabras más. En las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas",
+      "tema": "The city",
+      "ejempregunta": "Cars move along these in the city",
+      "preguntas": [
+        {
+            "texto": "A place where children play and friends meet",
+            "palabra": "park",
+            "letra": "E",
+            "correct": false,
+            "pk": 1
+        },
+        {
+            "texto": "A place where workers and machines make things",
+            "palabra": "factory",
+            "letra": "A",
+            "correct": false,
+            "pk": 2
+        },
+        {
+            "texto": "A place where tourists stay to sleep",
+            "palabra": "hotel",
+            "letra": "B",
+            "correct": false,
+            "pk": 3
+        },
+        {
+            "texto": "A place where the planes land and take off",
+            "palabra": "airport",
+            "letra": "F",
+            "correct": false,
+            "pk": 4
+        },
+        {
+            "texto": "A place where athletes practice sports like soccer",
+            "palabra": "stadium",
+            "letra": "G",
+            "correct": false,
+            "pk": 5
+        }
+    ],
+      "palabras": {
+        "A": "factory",
+        "B": "hotel",
+        "C": "traffic lights",
+        "D": "square",
+        "E": "park",
+        "F": "airport",
+        "G": "stadium",
+        "H": "street"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "quiz/5",
+      "titulo": "Quiz 5",
+      "tipo": "tipouno",
+      "texto": "RESPONDA LAS PREGUNTAS 1 A 5 DE ACUERDO CON EL EJEMPLO",
+      "descripcion": "Lea las descripciones de la columna de la izquierda (1 - 5). ¿Cuál palabra de la columna de la derecha (A - G) concuerda con cada descripción? La opción H se usa para el ejemplo. Sobran dos palabras más. En las preguntas 1 - 5, marque la letra correcta A - G en su hoja de respuestas",
+      "tema": "Classroom objects",
+      "ejempregunta": "Object where students put books and pencils",
+      "preguntas": [
+        {
+            "texto": "An electronic device to make math operations",
+            "palabra": "calculator",
+            "letra": "A",
+            "correct": false,
+            "pk": 1
+        },
+        {
+            "texto": "A substance used to stick things together",
+            "palabra": "glue",
+            "letra": "G",
+            "correct": false,
+            "pk": 2
+        },
+        {
+            "texto": "A metalic tool used to cut paper",
+            "palabra": "scissors",
+            "letra": "D",
+            "correct": false,
+            "pk": 3
+        },
+        {
+            "texto": "A container to throw away garbage",
+            "palabra": "paper bin",
+            "letra": "E",
+            "correct": false,
+            "pk": 4
+        },
+        {
+            "texto": "An object used to measure distances",
+            "palabra": "ruler",
+            "letra": "B",
+            "correct": false,
+            "pk": 5
+        }
+      ],
+      "palabras": {
+        "A": "calculator",
+        "B": "ruler",
+        "C": "book",
+        "D": "scissors",
+        "E": "paper bin",
+        "F": "whiteboard",
+        "G": "glue",
+        "H": "backpack"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "lectura/6",
+      "tipo": "tipolectura",
+      "titulo": "Quiz 6",
+      "file": "lectura1.txt",
+      "texto": "RESPONDA LAS PREGUNTAS 1 A 6 DE ACUERDO CON EL SIGUIENTE TEXTO",
+      "descripcion": "Lea el texto y seleccione la palabra correcta para cada espacio.",
+      "lectura": "",
+      "preguntas": [
+        {
+          "pk": 1,
+          "texto": "The second country where most people eat pasta is",
+          "correct": "Venezuela",
+          "opciones": [
+             "The Philippines",
+             "Mexico",
+             "Venezuela"
+          ]
+        },
+        {
+          "pk": 2,
+          "texto": "Pasta has become a favorite food because it",
+          "correct": "is cheap",
+          "opciones": [
+             "has tomato",
+             "is cheap",
+             "is complicated"
+          ]
+        },
+        {
+          "pk": 3,
+          "texto": "Sports people prefer pasta because it",
+          "correct": "improves activity levels",
+          "opciones": [
+             "improves activity levels",
+             "helps empty stomachs",
+             "is simple to prepare"
+          ]
+        },
+        {
+          "pk": 4,
+          "texto": "Pasta became well-known in the United States because Italians",
+          "correct": "arrived there",
+          "opciones": [
+             "arrived there",
+             "liked pizza",
+             "were famous"
+          ]
+        },
+        {
+          "pk": 5,
+          "texto": "Who first brought pasta to Italy?",
+          "correct": "Arabs",
+          "opciones": [
+             "Marco Polo",
+             "Sicilians",
+             "Arabs"
+          ]
+        },
+        {
+          "pk": 6,
+          "texto": "Both pizza and pasta",
+          "correct": "come to America from Italy",
+          "opciones": [
+             "stay fresh for a long time",
+             "come to America from Italy",
+             "are prepared in only one way"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "lectura2/7",
+      "tipo": "tipolectura",
+      "titulo": "Quiz 7",
+      "file": "lectura2.txt",
+      "texto": "RESPONDA LAS PREGUNTAS 1 A 6 DE ACUERDO CON EL SIGUIENTE TEXTO",
+      "descripcion": "Lea el texto y seleccione la palabra correcta para cada espacio.",
+      "preguntas": [
+        {
+          "pk": 1,
+          "texto": "",
+          "correct": "during",
+          "opciones": [
+             "on",
+             "for",
+             "during",
+             "at"
+          ]
+        },
+        {
+          "pk": 2,
+          "texto": "",
+          "correct": "spent",
+          "opciones": [
+             "used",
+             "had",
+             "shared",
+             "spent"
+          ]
+        },
+        {
+          "pk": 3,
+          "texto": "",
+          "correct": "started",
+          "opciones": [
+             "prepared",
+             "started",
+             "spared",
+             "practiced"
+          ]
+        },
+        {
+          "pk": 4,
+          "texto": "",
+          "correct": "grew",
+          "opciones": [
+             "advanced",
+             "grew",
+             "developed",
+             "threw"
+          ]
+        },
+        {
+          "pk": 5,
+          "texto": "",
+          "correct": "remained",
+          "opciones": [
+             "remained",
+             "expected",
+             "lasted",
+             "belonged"
+          ]
+        },
+        {
+          "pk": 6,
+          "texto": "",
+          "correct": "registered",
+          "opciones": [
+             "recorded",
+             "reserved",
+             "registered",
+             "reduced"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "lectura/8",
+      "tipo": "tipolectura",
+      "titulo": "Quiz 8",
+      "file": "lectura3.txt",
+      "texto": "RESPONDA LAS PREGUNTAS 1 A 6 DE ACUERDO CON EL SIGUIENTE TEXTO",
+      "descripcion": "Lea el texto y responda a las preguntas.",
+      "lectura": "",
+      "preguntas": [
+        {
+          "pk": 1,
+          "texto": "What is the author mainly doing with the text?",
+          "correctIndex": 2,
+          "opciones": [
+             "describing people who spend hours in front of the screen",
+             "suggesting that there are better leisure activities than TV ",
+             "warning about consequences of watching the news all day",
+             "explaining why television is important to keep up-to-date"
+          ]
+        },
+        {
+          "pk": 2,
+          "texto": "What might a person decide to do after reading this article?",
+          "correctIndex": 0,
+          "opciones": [
+             "try to talk less with the family",
+             "keep informed by watching TV",
+             "watch fewer television shows",
+             "consider visual learning"
+          ]
+        },
+        {
+          "pk": 3,
+          "texto": "According to the text, information from TV",
+          "correctIndex": 0,
+          "opciones": [
+             "gives specific descriptions of events.",
+             "contains many things not worth learning.",
+             "is always useful for learning.",
+             "is limited since it does not have diverse topics."
+          ]
+        },
+        {
+          "pk": 4,
+          "texto": "In the text, “5 years” refers to the time that",
+          "correctIndex": 1,
+          "opciones": [
+             "an average person watches TV in a lifetime.",
+             "you need to become an expert TV viewer.",
+             "someone takes to become addicted to TV.",
+             "TV needs to teach us something interesting."
+          ]
+        },
+        {
+          "pk": 5,
+          "texto": "Who first brought pasta to Italy?",
+          "correctIndex": 2,
+          "opciones": [
+             "Marco Polo",
+             "Sicilians",
+             "Arabs",
+             "Arabs"
+          ]
+        },
+        {
+          "pk": 6,
+          "texto": "Both pizza and pasta",
+          "correctIndex": 3,
+          "opciones": [
+             "stay fresh for a long time",
+             "come to America from Italy",
+             "are prepared in only one way",
+             "are prepared in only one way"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "lectura/9",
+      "tipo": "tipolectura",
+      "titulo": "Quiz 9",
+      "texto": "RESPONDA LAS PREGUNTAS 1 A 6 DE ACUERDO CON EL EJEMPLO",
+      "descripcion": "Complete las cinco conversaciones.",
+      "lectura": "",
+      "src": "dialogue1.png",
+      "preguntas": [
+        {
+          "pk": 1,
+          "texto": "I don’t think I’m going to pass this exam",
+          "correct": "No. You're very capable",
+          "opciones": [
+             "You're welcome",
+             "Congratulations",
+             "No. You're very capable"
+          ]
+        },
+        {
+          "pk": 2,
+          "texto": "Pasta has become a favorite food because it",
+          "correct": "is cheap",
+          "opciones": [
+             "has tomato",
+             "is cheap",
+             "is complicated"
+          ]
+        },
+        {
+          "pk": 3,
+          "texto": "Sports people prefer pasta because it",
+          "correct": "improves activity levels",
+          "opciones": [
+             "improves activity levels",
+             "helps empty stomachs",
+             "is simple to prepare"
+          ]
+        },
+        {
+          "pk": 4,
+          "texto": "Pasta became well-known in the United States because Italians",
+          "correct": "arrived there",
+          "opciones": [
+             "arrived there",
+             "liked pizza",
+             "were famous"
+          ]
+        },
+        {
+          "pk": 5,
+          "texto": "Who first brought pasta to Italy?",
+          "correct": "Arabs",
+          "opciones": [
+             "Marco Polo",
+             "Sicilians",
+             "Arabs"
+          ]
+        },
+        {
+          "pk": 6,
+          "texto": "Both pizza and pasta",
+          "correct": "come to America from Italy",
+          "opciones": [
+             "stay fresh for a long time",
+             "come to America from Italy",
+             "are prepared in only one way"
+          ]
+        }
+      ]
+    }
+  ]
+}

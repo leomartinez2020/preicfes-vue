@@ -12,7 +12,8 @@
 </template>
 
 <script>
-import datos from '@/assets/datos1.json'
+// import datos from '@/assets/datos1.json'
+import datos from '@/assets/datostest.json'
 
 export default {
     data() {

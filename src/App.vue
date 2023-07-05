@@ -1,5 +1,10 @@
 <script>
-// import PreguntasCompo from './components/VocabularioCompo.vue';
+import LecturaCompo from './components/LecturaCompo.vue';
+export default {
+  components: {
+    LecturaCompo
+  }
+}
 </script>
 
 <template>
