@@ -40,7 +40,7 @@ export default {
   },
   data() {
     return {
-      publicPath: import.meta.env.VERCEL_URL,
+      publicPath: process.env.VERCEL_URL,
       quizzes: datos.quizzes,
       responses: {},
       correctResponses: 0,
