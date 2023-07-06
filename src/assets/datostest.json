@@ -525,61 +525,61 @@
         {
           "pk": 1,
           "texto": "I don’t think I’m going to pass this exam",
-          "correct": "No. You're very capable",
+          "correct": "No. You're quite capable",
           "opciones": [
              "You're welcome",
              "Congratulations",
-             "No. You're very capable"
+             "No. You're quite capable"
           ]
         },
         {
           "pk": 2,
-          "texto": "Pasta has become a favorite food because it",
-          "correct": "is cheap",
+          "texto": "Is there a bank near here?",
+          "correct": "Yes, on the corner",
           "opciones": [
-             "has tomato",
-             "is cheap",
-             "is complicated"
+             "Actually it's a shop",
+             "You can go shopping there",
+             "Yes, on the corner"
           ]
         },
         {
           "pk": 3,
-          "texto": "Sports people prefer pasta because it",
-          "correct": "improves activity levels",
+          "texto": "I want to go to the movies",
+          "correct": "Let's go after school",
           "opciones": [
-             "improves activity levels",
-             "helps empty stomachs",
-             "is simple to prepare"
+             "Thanks",
+             "That's true",
+             "Let's go after school"
           ]
         },
         {
           "pk": 4,
-          "texto": "Pasta became well-known in the United States because Italians",
-          "correct": "arrived there",
+          "texto": "Do you mind if I open the window?",
+          "correct": "Not at all",
           "opciones": [
-             "arrived there",
-             "liked pizza",
-             "were famous"
+             "Not at all",
+             "Yes, I will",
+             "Right away"
           ]
         },
         {
           "pk": 5,
-          "texto": "Who first brought pasta to Italy?",
-          "correct": "Arabs",
+          "texto": "I spilled coffee on my shirt",
+          "correct": "How did that happen?",
           "opciones": [
-             "Marco Polo",
-             "Sicilians",
-             "Arabs"
+             "Sounds good",
+             "Sure",
+             "How did that happen?"
           ]
         },
         {
           "pk": 6,
-          "texto": "Both pizza and pasta",
-          "correct": "come to America from Italy",
+          "texto": "Who's Luisa?",
+          "correct": "The one in the red dress",
           "opciones": [
-             "stay fresh for a long time",
-             "come to America from Italy",
-             "are prepared in only one way"
+             "The one in the red dress",
+             "She works in a school",
+             "She writes books"
           ]
         }
       ]
