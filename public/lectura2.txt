@@ -1,0 +1,15 @@
+<h2 class="text-2xl font-bold text-yellow-700">A story of two trainers</h2>
+<p>Adidas and Puma are among the most recognized trainer
+companies in the world, but they wouldn't exist if it weren't
+for a rude competition between two brothers from Germany.</p>
+<p><span class="font-bold">(1)________</span> the 1920s, Adolf (Adi) Dassler, a sports fan
+who <span class="font-bold">(2)________</span> hours working on shoe designs, and
+Rudolf Dassler, a salesman, <span class="font-bold">(3)________</span> a small
+shoemaking business in the Bavarian city of Herzogenaurach, working on
+hand-sewn athletic trainers. But as their business took off, the two brothers
+<span class="font-bold">(4)________</span> increasingly frustrated with each other. They disagreed on everything
+from politics, the future of the company to one another's choice in wives.</p>
+<p>Finally, in 1945 Rudolf left and set up a new shop, while Adi <span class="font-bold">(5)________</span> in the
+initial plant. Adi’s company was renamed Adidas, and three years later Rudolf
+<span class="font-bold">(6)________</span> his new company, Puma.</p>
+
