@@ -2,50 +2,12 @@
 import datos from '@/assets/datostest.json'
 
 export default {
-  async mounted() {
-      if (this.quiz.file) {
-        const file = this.quiz.file;
-        const url = `${this.publicPath}/${file}`;
-        // console.log(url);
-        try {
-          const fetchResponse = await fetch(
-            url
-         )
-          .then(response => response.text())
-          // .then(data => {console.log(data); this.quiz.lectura = data;});
-          .then(data => {this.quiz.lectura = data;});
-          //.then(data => {console.log(data);});
-        } catch (ex) {
-          console.log("Error in fetch");
-        }
-      }
-
-      if (this.quiz.src) {
-        const src = this.quiz.src;
-        const url = `${this.publicPath}/${src}`;
-        console.log(url);
-        this.logo = url;
-        try {
-          const fetchResponse = await fetch(
-            url
-         )
-          .then(response => response.text())
-          // .then(data => {console.log(data); this.quiz.lectura = data;});
-          //.then(data => {this.quiz.logo = data;});
-          //.then(data => {console.log(data);});
-        } catch (ex) {
-          console.log("Error in fetch");
-        }
-      }
-  },
   data() {
     return {
-      publicPath: process.env.VERCEL_URL,
       quizzes: datos.quizzes,
       responses: {},
       correctResponses: 0,
       was_submitted: false,
-      logo: null
     }
   },
   computed: {
@@ -82,7 +44,7 @@ export default {
     <div>{{ quiz.descripcion }}</div>
     <div class="seccion-lectura">
       <div v-if="quiz.lectura" class="font-serif" v-html="quiz.lectura"></div>
-      <div v-else class="font-serif" ><img :src="logo" alt="imagen"/></div>
+      <div v-else class="font-serif" ><img :src="quiz.src" alt="imagen"/></div>
     </div>
     <div v-for="pregunta in quiz.preguntas">
       <!-- Definir las columnas -->

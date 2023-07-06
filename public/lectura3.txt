@@ -1,4 +1,4 @@
-<h2 class="text-2xl font-bold text-yellow-700">Television</h2>
+<h2 class=\"text-2xl font-bold text-yellow-700\">Television</h2>
 <p>Life is short! Who has time to waste? Not me. If you are really honest with yourself
 you´ll notice that you may be spending too much time watching television and there
 are better things you could be doing. Whether you watch television or not is your
@@ -12,10 +12,10 @@ is not accurate. If you really want to learn something, you should read it for y
 However, if you watch the average news program, you have to waste a long time on useless information. If you really
 want to be up-to-date, read the newspaper; it is more detailed and you can choose which stories you read.</p>
 
-<p>The average adult spends about 2 hours a day watching TV. Let´s say you lived to age 60; you would have spent 5
+<p>The average adult spends about 2 hours a day watching TV. Let's say you lived to age 60; you would have spent 5
 years of your life in front of the television. Not only could you be catching up with your family during that time (since
 watching TV with them it is not real interaction), but you are also preventing yourself from having new experiences. Do
-you know what you could do with those extra years? Here´s some advice: create some art, talk to people, exercise,
+you know what you could do with those extra years? Here's some advice: create some art, talk to people, exercise,
 learn a foreign language or how to play an instrument.</p>
 
-<p>Using those two hours a day for something you “don't have time for,” will make you have time for a lot more.</p>
+<p>Using those two hours a day for something you \"don't have time for,\" will make you have time for a lot more.</p>

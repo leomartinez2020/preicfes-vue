@@ -293,7 +293,7 @@
       "file": "lectura1.txt",
       "texto": "RESPONDA LAS PREGUNTAS 1 A 6 DE ACUERDO CON EL SIGUIENTE TEXTO",
       "descripcion": "Lea el texto y seleccione la palabra correcta para cada espacio.",
-      "lectura": "",
+      "lectura": "<h2 class=\"text-2xl font-bold text-yellow-700\">The World's Favorite Food</h2> <p>According to information collected in 17 countries, pasta is what people like to eat most. Not only is pasta the number one food in its home country, Italy, but it is also enjoyed in distant places like the Philippines, Mexico and South Africa. Italy is the biggest pasta-eating community of the world. Italy is followed by Venezuela, then Tunisia.</p> <p>Pasta has become popular because it is a low-cost meal and it is not difficult to prepare. Just cook spaghetti or other forms of pasta with tomato to go with it and you’re finished. It tastes delicious and fills your stomach. It also produces energy, which is why athletes eat pasta.</p> <p>Before it became popular in Italy during the 19th century, earlier civilizations ate some forms of pasta. People say that by the 13th century Marco Polo brought pasta to Italy from China, but this is not true. Arabs brought a noodle-like pasta to Sicily, an island in Italy, in the 8th century.</p> <p>When many Italians immigrated to America in the 20th century, they took their eating habits with them, so pasta and pizza became popular. Although many people think of spaghetti as the most popular form of pasta, there are over 600 types and they are cooked in different ways. Pasta has simple ingredients, so it can be kept longer.</p>",
       "preguntas": [
         {
           "pk": 1,
@@ -365,6 +365,7 @@
       "file": "lectura2.txt",
       "texto": "RESPONDA LAS PREGUNTAS 1 A 6 DE ACUERDO CON EL SIGUIENTE TEXTO",
       "descripcion": "Lea el texto y seleccione la palabra correcta para cada espacio.",
+      "lectura": "<h2 class=\"text-2xl font-bold text-yellow-700\">A story of two trainers</h2> <p>Adidas and Puma are among the most recognized trainer companies in the world, but they wouldn't exist if it weren't for a rude competition between two brothers from Germany.</p> <p><span class=\"font-bold\">(1)________</span> the 1920s, Adolf (Adi) Dassler, a sports fan who <span class=\"font-bold\">(2)________</span> hours working on shoe designs, and Rudolf Dassler, a salesman, <span class=\"font-bold\">(3)________</span> a small shoemaking business in the Bavarian city of Herzogenaurach, working on hand-sewn athletic trainers. But as their business took off, the two brothers <span class=\"font-bold\">(4)________</span> increasingly frustrated with each other. They disagreed on everything from politics, the future of the company to one another's choice in wives.</p> <p>Finally, in 1945 Rudolf left and set up a new shop, while Adi <span class=\"font-bold\">(5)________</span> in the initial plant. Adi’s company was renamed Adidas, and three years later Rudolf <span class=\"font-bold\">(6)________</span> his new company, Puma.</p>",
       "preguntas": [
         {
           "pk": 1,
@@ -442,7 +443,7 @@
       "file": "lectura3.txt",
       "texto": "RESPONDA LAS PREGUNTAS 1 A 6 DE ACUERDO CON EL SIGUIENTE TEXTO",
       "descripcion": "Lea el texto y responda a las preguntas.",
-      "lectura": "",
+      "lectura": "<h2 class=\"text-2xl font-bold text-yellow-700\">Television</h2> <p>Life is short! Who has time to waste? Not me. If you are really honest with yourself you´ll notice that you may be spending too much time watching television and there are better things you could be doing. Whether you watch television or not is your decision. But consider this first.</p>  <p>Some people say TV is educational, but it is an ineffective medium for learning. Though there is a great variety of programs and sometimes they are interesting, many TV shows offer information that is not accurate. If you really want to learn something, you should read it for yourself.</p>  <p>TV can help you keep informed and it is necessary to know what is happening to people and places around you. However, if you watch the average news program, you have to waste a long time on useless information. If you really want to be up-to-date, read the newspaper; it is more detailed and you can choose which stories you read.</p>  <p>The average adult spends about 2 hours a day watching TV. Let's say you lived to age 60; you would have spent 5 years of your life in front of the television. Not only could you be catching up with your family during that time (since watching TV with them it is not real interaction), but you are also preventing yourself from having new experiences. Do you know what you could do with those extra years? Here's some advice: create some art, talk to people, exercise, learn a foreign language or how to play an instrument.</p>  <p>Using those two hours a day for something you \"don't have time for,\" will make you have time for a lot more.</p>",
       "preguntas": [
         {
           "pk": 1,
@@ -520,7 +521,7 @@
       "texto": "RESPONDA LAS PREGUNTAS 1 A 6 DE ACUERDO CON EL EJEMPLO",
       "descripcion": "Complete las cinco conversaciones.",
       "lectura": "",
-      "src": "dialogue1.png",
+      "src": "https://english22.s3.amazonaws.com/dialogue1.png",
       "preguntas": [
         {
           "pk": 1,
