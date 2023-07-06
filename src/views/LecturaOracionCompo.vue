@@ -40,7 +40,7 @@ export default {
   },
   data() {
     return {
-      publicPath: import.meta.env.VITE_BASE_URL,
+      publicPath: import.meta.env.VERCEL_URL,
       quizzes: datos.quizzes,
       responses: {},
       correctResponses: 0,
