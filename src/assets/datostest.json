@@ -521,7 +521,7 @@
       "texto": "RESPONDA LAS PREGUNTAS 1 A 6 DE ACUERDO CON EL EJEMPLO",
       "descripcion": "Complete las cinco conversaciones.",
       "lectura": "",
-      "src": "https://english22.s3.amazonaws.com/dialogue1.png",
+      "src": "https://english22.s3.amazonaws.com/dialogue2.png",
       "preguntas": [
         {
           "pk": 1,
